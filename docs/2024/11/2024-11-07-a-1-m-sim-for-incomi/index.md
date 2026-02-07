@@ -1,0 +1,8 @@
+---
+title: "A £1/m SIM for incoming calls"
+date: 2024-11-07
+categories: 
+  - "voippix"
+---
+
+If you are after a SIM for incoming calls only there in an undocumented PAYG tariff from [GiffGaff](https://www.giffgaff.com/orders/affiliate/gg320_1730978918184) where a single £10 evoucher should last 10 months (ie £1/m) as long as you make 1 call a month.
