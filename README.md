@@ -17,3 +17,8 @@ uvx zensical build
 - gl pages
 - netlify
 - vercel
+
+## uses
+
+- cloudinary
+- [giscus](https://github.com/giscus/giscus)
