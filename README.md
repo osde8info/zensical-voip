@@ -15,7 +15,7 @@ uvx zensical build
 - cloudflare
 - gh pages
 - gl pages
-- netlify
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/d7f3b6a5-6a4f-46ad-927e-4fcd1d4b3abd/deploy-status)](https://app.netlify.com/projects/voip8info/deploys)
 - vercel
 
 ## uses
